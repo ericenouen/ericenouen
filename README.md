@@ -8,4 +8,4 @@ I'm interested in many subsets of machine learning such as computer vision, rein
 You can reach me at:
 * Email: erenouen@gmail.com
 * LinkedIn: https://www.linkedin.com/in/eric-enouen-b3aa8718a/
-* Webiste: https://ericenouen.github.io/
+* Personal Site: https://ericenouen.github.io/
